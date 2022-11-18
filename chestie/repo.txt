@@ -1,0 +1,34 @@
+	def __init__(self):
+		self.file = "file.txt"
+		self._list = []
+		self._load_file()
+	
+	def _clean_memory(self):
+		self._list.clear()
+		return self._list
+
+	def _load_file(self):
+		self._list = self._clean_memory()
+		f= open(self.file,"rt")
+		for line in f.readlines():
+			line = line.split("")
+			if '\n' in line[len(line)-1]:
+				line[len(line)-1].rstrip()
+			self._list.append(Object(line[0],line[1]))
+		f.close()
+
+	def save_file(self):
+        	f = open(self.file_name, "wt")
+        	for i in range(len(self._list)):
+            		f.write(str(self._list[i].id) + " " + str(self._list[i].name) +'\n')
+        	f.close()
+
+	def __len__(self):
+        	return len(self._list)	
+
+	def get_list(self):
+		return self._list[:]
+		
+		
+			
+ 

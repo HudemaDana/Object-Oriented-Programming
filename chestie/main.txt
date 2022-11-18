@@ -1,0 +1,11 @@
+import ...
+
+
+def main():
+	domain = ...()
+	repo = Repo...(domain)
+	serv = Serv...(repo)
+	new_ui = UI(serv)
+	new_ui.controller()
+main()
+	

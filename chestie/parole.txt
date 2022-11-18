@@ -1,0 +1,25 @@
+academic:
+name:hu.da0194756s
+password:Pq3$=Jy7
+
+moodle:
+name:hdie3132
+password:hdie3132
+
+stud_email:dana.hudema@stud.ubbcluj.ro
+
+email_antic_faculta:
+name:hdie3132
+password:hdie3132
+
+teams:
+//log with office log data
+
+office:
+e-mail:dana.hudema@stud.ubbcluj.ro
+password:330236Parola0
+
+git-hub:
+username: 913HudemaDana
+password: Da.dadada1
+

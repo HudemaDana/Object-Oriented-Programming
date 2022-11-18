@@ -1,0 +1,14 @@
+	def __init__(self,id,name):
+		self.id = id
+		self.name = name
+	@property
+	def thing_id(self):
+		return self.id
+
+	@property
+	def name(self):
+		return self.name
+
+	@name.setter
+	def name(self,val):
+		self.name = val
