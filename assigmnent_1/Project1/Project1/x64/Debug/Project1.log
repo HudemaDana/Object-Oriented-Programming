@@ -1,0 +1,5 @@
+﻿  Problem_7.c
+C:\Users\dllov\OneDrive\Desktop\sem2\OOP\assigmnent_1\Project1\Project1\Problem_7.c(156,37): warning C4047: 'function': 'int *' differs in levels of indirection from 'int'
+C:\Users\dllov\OneDrive\Desktop\sem2\OOP\assigmnent_1\Project1\Project1\Problem_7.c(156,36): warning C4024: 'read_sequences': different types for formal and actual parameter 2
+C:\Users\dllov\OneDrive\Desktop\sem2\OOP\assigmnent_1\Project1\Project1\Problem_7.c(266,9): warning C4101: 'i': unreferenced local variable
+  Project1.vcxproj -> C:\Users\dllov\OneDrive\Desktop\sem2\OOP\assigmnent_1\Project1\x64\Debug\Project1.exe
