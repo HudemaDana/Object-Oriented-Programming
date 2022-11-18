@@ -1,0 +1,10 @@
+C++ Tutorial for Beginners - Full Course*freeCodeCamp.org*04:18*212*https://www.youtube.com/watch?v=vLnPwxZdW4Y&t=15s
+CONST in C++*The Cherno*12:53*12000*https://www.youtube.com/watch?v=4fJBrditnJU
+REFERENCES in C++*The Cherno*10:12*15000*https://www.youtube.com/watch?v=IzoFn3dfsPA
+SMART POINTERS in C++*The Cherno*11:36*18450*https://www.youtube.com/watch?v=UOB7-B2MfwA
+DEADLY C++ Mistakes Beginners Make*Caleb Curry*10:21*1340*https://www.youtube.com/watch?v=0G1NcVrvmqc
+OOP in C++*freeCodeCamp.org*20:25*1234*https://www.youtube.com/watch?v=wN0x9eZLix4
+Stupid C++ Tricks with Dave*Dave*15:42*10111*https://www.youtube.com/watch?v=p-sprvJX07E
+31 nooby C++ habits you need to ditch*mCoding*16:17*8450*https://www.youtube.com/watch?v=i_wDa2AS_8w
+Forbidden C++*javi*33:06*31030*https://www.youtube.com/watch?v=j0_u26Vpb4w
+DON'T LEARN C++ GUI UNLESS...*Sciber*04:33*605*https://www.youtube.com/watch?v=LIDmBYoxss4

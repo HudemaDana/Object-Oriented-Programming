@@ -1,0 +1,16 @@
+﻿  Tutorial.cpp
+  UI.cpp
+  main.cpp
+  repo.cpp
+C:\Users\dllov\OneDrive\Desktop\sem2\OOP\assigmnent_4-5\Master C++\Master C++\repo.cpp(18,24): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  service.cpp
+  test.cpp
+  CSVPlaylist.cpp
+  FilePlaylist.cpp
+  HTMLPlaylist.cpp
+  Playlist.cpp
+C:\Users\dllov\OneDrive\Desktop\sem2\OOP\assigmnent_6-7\MasterC++ Vector\MasterC++ Vector\Playlist.cpp(15,29): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  comparator.cpp
+  Generating Code...
+C:\Users\dllov\OneDrive\Desktop\sem2\OOP\assigmnent_6-7\MasterC++ Vector\MasterC++ Vector\Playlist.cpp(30): warning C4715: 'Playlist::findByTitleAndPresenter': not all control paths return a value
+  MasterC++ Vector.vcxproj -> C:\Users\dllov\OneDrive\Desktop\sem2\OOP\assigmnent_6-7\MasterC++ Vector\x64\Debug\MasterC++ Vector.exe
